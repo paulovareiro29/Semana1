@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Primeira Aplicacao</string>
+    <string name="welcome">Welcome to the app</string>
+    <string name="file">File</string>
+    <string name="create_new">Create</string>
+    <string name="open_file">Open</string>
+</resources>

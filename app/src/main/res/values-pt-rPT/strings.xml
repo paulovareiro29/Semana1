@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Primeira Aplicacao</string>
+    <string name="welcome">Bem-vindo à app</string>
+    <string name="file">Ficheiro</string>
+    <string name="create_new">Criar</string>
+    <string name="open_file">Abrir</string>
+</resources>
